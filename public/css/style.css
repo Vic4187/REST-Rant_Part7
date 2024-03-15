@@ -45,7 +45,6 @@ body {
     background-color: white;
   }
   
-/* img {
-    display: flex;
-    flex-wrap: wrap;
-} */
+img {
+    width: 500px;
+}
